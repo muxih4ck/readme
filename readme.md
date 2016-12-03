@@ -32,5 +32,10 @@
     - Gomoku AI♨️
 + [Sentiment_Analysis](https://github.com/kasheemlew/Sentiment_Analysis)
     - Sentiment Analysis of comments on courses
++ [Tetris](https://github.com/RoseOu/Tetris)
+    - 俄罗斯方块
++ [Match](https://github.com/RoseOu/Match)
+    - [一个获取你和Ta的匹配度的应用](http://120.24.4.254:5555/)
+
 
 ![](https://avatars0.githubusercontent.com/u/24355973?v=3&s=200)
