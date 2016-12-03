@@ -2,8 +2,6 @@
 
 > hack not back
 
-![](https://avatars0.githubusercontent.com/u/24355973?v=3&s=200)
-
 ## [木犀后台组工作流](https://neo1218.github.io/muxi-backend-workflow/)
 
 <hr/>
@@ -20,6 +18,8 @@
 
 ### 🏠 教程&&WorkShop
 
+<hr/>
+
 ## IDEAs
 
 + [mana](https://github.com/neo1218/mana)
@@ -32,3 +32,5 @@
     - Gomoku AI♨️
 + [Sentiment_Analysis](https://github.com/kasheemlew/Sentiment_Analysis)
     - Sentiment Analysis of comments on courses
+
+![](https://avatars0.githubusercontent.com/u/24355973?v=3&s=200)
