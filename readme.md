@@ -15,6 +15,7 @@
 ### 🆓 资源整理
 
 + [flask resources](https://github.com/muxih4ck/Flask-Resources)
++ [interview resources](https://github.com/muxih4ck/Interview-Resources)
 
 ### 🏠 教程&&WorkShop
 
