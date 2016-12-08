@@ -16,6 +16,7 @@
 
 + [flask resources](https://github.com/muxih4ck/Flask-Resources)
 + [interview resources](https://github.com/muxih4ck/Interview-Resources)
++ [operating system development resources](https://github.com/muxih4ck/osr)
 
 ### 🏠 教程&&WorkShop
 
