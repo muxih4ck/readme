@@ -2,12 +2,17 @@
 
 > hack not back
 
-## [木犀后台组工作流](https://neo1218.github.io/muxi-backend-workflow/)
+## [木犀后台组工作流-2017](http://zxc0328.github.io/2017/06/05/muxi-be-workflow/)
+
+[木犀后台组工作流-2016](https://neo1218.github.io/muxi-backend-workflow/)
 
 <hr/>
 
 ## 技术积累
-### [📝 分享会整理](https://github.com/muxih4ck/share)
+### [📝 组内分享会整理](https://github.com/muxih4ck/share)
+
+[neo1218/for-muxi-share](https://github.com/neo1218/for-muxi-share)
+
 ### 📒 博客整理
 
 + [python blogs](https://github.com/muxih4ck/pyblogs)
@@ -18,7 +23,10 @@
 + [interview resources](https://github.com/muxih4ck/Interview-Resources)
 + [operating system development resources](https://github.com/muxih4ck/osr)
 
-### 🏠 教程&&WorkShop
+### 🏠 Lab
+
++ [Py Web Lab](https://github.com/muxih4ck/py_web_lab)
+
 
 <hr/>
 
