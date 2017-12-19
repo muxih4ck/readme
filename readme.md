@@ -2,7 +2,11 @@
 
 > hack not back
 
-## [木犀后台组工作流-2017](http://zxc0328.github.io/2017/06/05/muxi-be-workflow/)
+## 工作流 
+
+[木犀后台组工作流-2017](http://zxc0328.github.io/2017/06/05/muxi-be-workflow/)
+
+[Demo APP示例博客讲解](https://yuyilei.github.io/2017/09/24/eat-app/)+[视频讲解(七牛托管，请使用国内线路打开)](https://occc3ev3l.qnssl.com/eat2.mp4)
 
 [木犀后台组工作流-2016](https://neo1218.github.io/muxi-backend-workflow/)
 
